@@ -1,5 +1,5 @@
-# NCU-CAE-internship-program
-work achievement of internship in NCU
+# NTU-CAE-internship-program
+work achievement of internship in NTU
 These are the three dashboards visualizing electricity consumption, water consumption, and emission of greenhouse gases in NTU
 Below are the link to three dashboard
 ### electricity consumption:
